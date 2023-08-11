@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flt-semantics_Test item 130 aantal bepaald _d0519c</name>
+   <tag></tag>
+   <elementGuidId>aeb75d55-1c4c-4edf-9d9b-86c2ac0d5b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>flt-semantics-host > #flt-semantic-node-0 > flt-semantics-container > #flt-semantic-node-1 > flt-semantics-container > #flt-semantic-node-11 > flt-semantics-container > #flt-semantic-node-12 > flt-semantics-container > #flt-semantic-node-13 > flt-semantics-container > #flt-semantic-node-19 > flt-semantics-container > #flt-semantic-node-30 > flt-semantics-container > #flt-semantic-node-23 > flt-semantics-container > #flt-semantic-node-43 > flt-semantics-container > #flt-semantic-node-53 > flt-semantics-container > #flt-semantic-node-44 > flt-semantics-container > #flt-semantic-node-74</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//flt-semantics[@aria-label = 'Test item 130 aantal bepaald prijs ' and (text() = 'Test item 130 aantal bepaald prijs ' or . = 'Test item 130 aantal bepaald prijs ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>flt-semantics</value>
+      <webElementGuid>2313bf5c-6226-4e04-be75-7e05b5fa4e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>flt-semantic-node-74</value>
+      <webElementGuid>e541aa6b-99e9-4770-b1e2-a0aeda533769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Test item 130 aantal bepaald prijs </value>
+      <webElementGuid>b12f0e77-b087-48c3-a14d-5856b839f632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>facca164-8c49-40d8-aca0-1c96bb885d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test item 130 aantal bepaald prijs </value>
+      <webElementGuid>a57e912f-f284-461b-91d5-85556160614e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/flt-semantics-host[1]/flt-semantics[@id=&quot;flt-semantic-node-0&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-1&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-11&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-12&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-13&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-19&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-30&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-23&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-43&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-53&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-44&quot;]/flt-semantics-container[1]/flt-semantics[@id=&quot;flt-semantic-node-74&quot;]</value>
+      <webElementGuid>02becbcc-a53a-472d-92f1-4a50d8f412d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Retail by Aiden/flt-glass-pane</value>
+      <webElementGuid>d8076edd-fad2-4fe6-8806-51581350d294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b520e51d-4cb1-4379-b933-03e2943e0700</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//flt-semantics[@aria-label = 'Test item 130 aantal bepaald prijs ' and (text() = 'Test item 130 aantal bepaald prijs ' or . = 'Test item 130 aantal bepaald prijs ')]</value>
+      <webElementGuid>44142008-54ab-4a30-9392-0cd036c7080d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flt-semantics[@id='flt-semantic-node-44']/flt-semantics-container/flt-semantics[6]</value>
+      <webElementGuid>30bb3229-911f-40fc-860c-9539c079f4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>4b923ec4-36ee-41df-a307-7fc7483e3971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
